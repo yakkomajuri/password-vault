@@ -42,6 +42,8 @@ userInput.on('data', function(data) {
 
 
 
+
+
 /*
 fs.writeFile('enc/test.txt', AES.encrypt('message', 'key'), (err) => {
     if (err) throw err;
